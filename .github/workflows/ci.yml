@@ -19,5 +19,5 @@ jobs:
         run: ls -la
 
       - name: Say hello
-        run: echo "CI is working fine! 🚀"
+        run: echo "CI is working super fine! 🚀"
 
